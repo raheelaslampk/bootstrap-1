@@ -1,0 +1,11 @@
+.hero-section{
+background-image: url('../assets/images/architect.jpg');
+/* aspect-ratio: 16/9; */
+height: 80vh;
+object-fit: cover;
+object-position: center;
+}
+
+.br-text{
+    
+}
